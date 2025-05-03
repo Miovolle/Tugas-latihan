@@ -1,5 +1,5 @@
 ## Tugas Workshop Pemrograman Web, Aplikasi Manajemen Tugas
 
-- Nama         : Bayu Rachman Machdiar
-- NIM          : E32241056
-- Golongan     : C
+- Nama         : Muamar Firman Ardani
+- NIM          : E32240004
+- Golongan     : A
